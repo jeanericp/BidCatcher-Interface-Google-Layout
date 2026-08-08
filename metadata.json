@@ -1,0 +1,6 @@
+{
+  "name": "BidCatcher",
+  "description": "Minimalist interface for the BidCatcher product dashboard, featuring a dark mode toggle and real-time data visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
